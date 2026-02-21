@@ -1,6 +1,13 @@
-# Jogos
-Pequenos jogos para treinar algumas bibliotecas como Tkinter.
+## Jogos feitos com Python ultilizando a biblioteca Tkinter
+Contém tais jogos com seu determinado nome no arquivo:
+ - Bingo
+ - Campo minado
 
-Por enquanto só tem tem o Bingo e o Campo Minado,
-Tenho que lembrar de passar os outros joguinhos para cá antes de resetar meu computador.
-https://just-go.notion.site/L-gica-de-Programa-o-Python-a5ac46c689474a35b8c9bac7a5f14c84
+### Como Inicializar?
+#### Ações:
+- Garanta que o python e sua IDE estejam bem configurados
+- Crie uma pasta na área de trabalho
+- Clique nela com o botão direito e selecione "Open Git Bash here" e digite o comando "https://github.com/anitapalhares/Jogos.git"
+- | dica: No terminal o Ctrl V não funciona, clique Windows V e selecione a opção desejada
+- após isso abra a sua IDE e clique em abrir pasta e selecione a pasta do projeto
+- Entre no arquivo do jogo que deseja e rode com "run"
